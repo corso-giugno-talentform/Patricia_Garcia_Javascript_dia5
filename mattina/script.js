@@ -18,3 +18,16 @@ let array_2 = [
 let frase = array_1[0][0]+" "+array_1[1][0]+" "+array_1[0][1]+" "+array_2[4][0][0]+" "+array_1[0][0]+" "+array_1[1][0]+" "+array_1[0][1]+" "+array_1[1][1]+" "+array_1[0][0]+" "+array_1[1][0]+" "+array_1[0][1]+" "+array_1[2][0]+" "+array_1[2][1]+ ' ' +array_2[3][0]+" "+array_2[4][1]+" "+array_1[0][2];
 console.log(frase)
 
+console.log(array_2[4][2])
+
+
+
+
+// accesso al dato con for
+let persone = ['Antonio', 'Rosa', 'Simona', 'Luca'];
+
+for (let i = 0; i < persone.length; i++) {
+   // console.log('Ciao mi chiamo ' + persone[i]);
+   
+}
+
